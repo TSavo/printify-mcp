@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server for integrating AI assistants with Printify's print-on-demand platform.
 
+<a href="https://glama.ai/mcp/servers/@TSavo/printify-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@TSavo/printify-mcp/badge" alt="Printify Server MCP server" />
+</a>
+
 ## Table of Contents
 
 - [Overview](#overview)
